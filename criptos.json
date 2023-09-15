@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "BTC",
+        "precio": 26225.23
+    },
+    {
+        "id": 2,
+        "nombre": "USDC",
+        "precio": 1.00
+    },
+    {
+        "id": 3,
+        "nombre": "LTC",
+        "precio": 62.43
+    },
+    {
+        "id": 4,
+        "nombre": "BCH",
+        "precio": 207.82
+    },
+    {
+        "id": 5,
+        "nombre": "AVAX",
+        "precio": 9.35
+    },
+    {
+        "id": 6,
+        "nombre": "FLOW",
+        "precio": 0.45
+    }
+]
