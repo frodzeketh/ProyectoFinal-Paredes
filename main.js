@@ -91,3 +91,29 @@ botones.forEach(boton => {
     });
   });
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+fetch('https://jsonplaceholder.typicode.com/posts')
+  .then(response => response.json())
+  .then(data => {
+    // Aquí puedes manejar y mostrar los datos en tu proyecto
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error al obtener datos:', error);
+  });
+
+
+
+
