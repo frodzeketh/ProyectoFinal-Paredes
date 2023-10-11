@@ -1,0 +1,739 @@
+01:36:26	Daniela Chesko:	hola buenas noches
+01:37:11	Camila Coré:	Buenas profe! Todo okkk
+01:37:13	Tomás Cosentino:	se
+01:37:17	Daniela Chesko:	algún tutor que me ayude con un error que me aparece en mi pagina cuando abro pages con github
+01:37:47	[Tutor] Cristian Ovejero:	Replying to "algún tutor que me a..."
+
+Si Dani decime que error te aparece
+01:38:11	Tobias Castillo:	holas
+01:38:13	Daniela Chesko:	Si Dani decime que error te aparece
+01:38:16	Tobias Castillo:	buenas noches
+01:38:42	Romina Macet:	yo todavía ni sé qué es una variable, cómo que ya terminamos? :P
+01:38:52	Camila Coré:	Reacted to "yo todavía ni sé qué..." with 😂
+01:38:57	Melanie Azul Peralta Sosa:	Reacted to "yo todavía ni sé qué..." with 😂
+01:38:59	Tobias Castillo:	Reacted to "yo todavía ni sé qué..." with 😂
+01:40:30	[Tutor] Cristian Ovejero:	Replying to "{E1B10CC4-5E43-4AA8-9E97-1E2662B7A261}.png"
+
+Por casualidad Dani a tu archivo index.html lo nombraste como Index.html? Recorda que hay servidores que distinguen entre mayúsculas y minúsculas. El nombre del archivo tiene que ser index.html, y no otra variación del mismo. Con Index.html no te va a funcionar.
+01:40:59	Camila Coré:	algun tip para leer documentaciones?
+01:41:08	Daniela Chesko:	no, esta con minuscula
+01:41:32	Tomás Cosentino:	Replying to "no, esta con minuscu..."
+
+esta en alguna carpeta?
+01:41:40	Daniela Chesko:	esta en alguna carpeta?si
+01:41:45	Pablo Rivero:	algo como bootstrap?
+01:41:50	Pablo Rivero:	con las clases
+01:42:04	Tomás Cosentino:	Replying to "esta en alguna carpe..."
+
+tiene que estar afuera, solo, en la carpeta raíz
+01:42:25	Alicia Otero:	hola, buenas noches!
+01:42:30	Camila Coré:	Reacted to "hola, buenas noches!" with ❤️
+01:42:38	Tomás Cosentino:	Replying to "esta en alguna carpe..."
+
+y dentro del index.html, llamás al resto de archivos que si pueden estar dentro de carpetas
+01:42:43	Daniela Chesko:	debería estar el index por fuera de Wiframes?
+01:42:48	[Tutor] Cristian Ovejero:	Replying to "esta en alguna carpe..."
+
+Ponelo por fuera de la carpeta Dani
+01:42:50	Matias Alexander:	Replying to "debería estar el ind..."
+
+si
+01:43:00	Daniela Chesko:	Ponelo por fuera de la carpeta Daniokey, ahora pruebo
+01:43:04	Tomás Cosentino:	dale
+01:43:23	[Tutor] Cristian Ovejero:	Replying to "esta en alguna carpe..."
+
+En la carpeta raíz como menciona Tomas
+01:43:56	Romina Macet:	terminamos antes?? :D
+01:44:03	Romina Macet:	ufa
+01:44:12	Tomás Cosentino:	nashe
+01:44:15	[Tutor] - Gustavo Herrador:	Replying to "terminamos antes?? :..."
+
+cuando no vos! jajaja
+01:44:32	Enzo Galvez:	100pre
+01:44:36	Romina Macet:	Replying to "terminamos antes?? :..."
+
+no me juzguen, estoy sin dormir
+01:44:49	Tomás Cosentino:	Reacted to "cuando no vos! jajaj..." with 😂
+01:44:51	Alicia Otero:	Reacted to "no me juzguen, estoy..." with 🤣
+01:44:59	Enzo Galvez:	Replying to "terminamos antes?? :..."
+
+coffe
+01:45:02	[Tutor] - Gustavo Herrador:	oiga profe, que lo voy a retar ahi.. react ya no es una libreria
+01:45:02	Tomás Cosentino:	Reacted to "no me juzguen, estoy..." with 😴
+01:45:04	[Tutor] - Gustavo Herrador:	:(
+01:45:07	Tomás Cosentino:	Reacted to "coffe" with 👆
+01:45:22	Tomás Cosentino:	Replying to "oiga profe, que lo v..."
+
+uff
+01:45:24	Santiago Fernández:	Nuxt que es?
+01:45:29	Tomás Cosentino:	Replying to "oiga profe, que lo v..."
+
+la data que tiene el tutor
+01:45:38	Alicia Otero:	Replying to "oiga profe, que lo v..."
+
+conflicto entre tutor y profe
+01:46:11	Romina Macet:	cómo que react ya murió?? es el próximo curso que tengo después de éste!! xD
+01:46:14	Tomás Cosentino:	y mi curso de react?
+01:46:16	Tomás Cosentino:	:(
+01:46:18	Romina Macet:	jajajaja
+01:46:18	Camila Coré:	Reacted to "cómo que react ya mu..." with 😂
+01:46:23	Tomás Cosentino:	Reacted to "cómo que react ya mu..." with 😂
+01:46:24	Camila Coré:	Reacted to "y mi curso de react?" with 😂
+01:46:30	Alicia Otero:	Reacted to "cómo que react ya mu..." with 😂
+01:46:34	Alicia Otero:	Reacted to "y mi curso de react?" with 😂
+01:46:47	Diego Roberto Calderon:	entonces vale la pena hacer el curso de react?
+01:46:52	Tomás Cosentino:	espero que me cambien a node.js el curso de react
+01:46:54	Tomás Cosentino:	:D
+01:46:58	Romina Macet:	Replying to "entonces vale la pen..."
+
+claro!
+01:47:01	[Tutor] - Gustavo Herrador:	no es que murió como tal!! sino que se va a unir con next js y ahora va a ser un framework
+01:47:28	Romina Macet:	Replying to "no es que murió como..."
+
+como bootstrap?
+01:47:46	Camila Coré:	next esta incorporado al curso de react?
+01:48:35	Tomás Cosentino:	igual para aprender librerías de js, este curso que estamos haciendo, sirve banda
+01:48:39	Alicia Otero:	entonces cual curso sigue luego de este, qué pasó con react!, lo piden un montón y ahora que ...
+01:48:40	[Tutor] - Gustavo Herrador:	Replying to "next esta incorporad..."
+
+no directamente cami!! la forma de programación es la misma, solo que react antes no poseía por ejemplo un enrutador propio, sino que se usaban otras librerías como react router.. el beneficio de next es que ya posee un enrutador propio
+01:48:58	Camila Coré:	Reacted to "no directamente cami..." with 👍
+01:49:00	Tomás Cosentino:	Reacted to "no directamente cami..." with 👍
+01:49:05	Camila Coré:	Replying to "next esta incorporad..."
+
+graciasss
+01:49:10	Camila Coré:	claro, gracias!
+01:49:15	Enzo Galvez:	mi cabeza!!!😖
+01:49:22	Romina Macet:	Reacted to "mi cabeza!!!😖" with 🥴
+01:49:32	Alicia Otero:	como es el otro programa como es, next que?
+01:49:36	Alicia Otero:	Reacted to "mi cabeza!!!😖" with 🥴
+01:49:37	Tomás Cosentino:	Replying to "mi cabeza!!!😖"
+
+recién empezamo'
+01:49:46	Tomás Cosentino:	Replying to "mi cabeza!!!😖"
+
+tamo al horno
+01:49:46	[Tutor] - Gustavo Herrador:	el que sigue es React.. a ver, next js === react mejorado.. es lo mismo
+01:49:52	[Tutor] - Gustavo Herrador:	no es que son cosas distintas.. tengan en cuenta eso
+01:51:00	Tomás Cosentino:	react es como aprender la base
+01:51:01	Tomás Cosentino:	digamo
+01:51:44	[Tutor] - Gustavo Herrador:	es como explique antes.. next js ES react.. la diferencia existe en que next ya viene con código propio interno que nos ayuda, por ejemplo enrutadores, pre-rendering o el server side rendering.. eso react no lo trae nativo sino que debemos utilizar librerías externas para lograrlo
+01:51:52	[Tutor] - Gustavo Herrador:	podríamos decir que next es react + complementos
+01:52:15	[Tutor] - Gustavo Herrador:	Replying to "react es como aprend..."
+
+exacto
+01:52:15	Tomás Cosentino:	react+dlc's
+01:52:31	[Tutor] - Gustavo Herrador:	tal cual Tomas! tal cual
+01:52:38	Tomás Cosentino:	:D
+01:52:42	Romina Macet:	Profe, perdón, no entiendo lo siguiente: si bootstrap y las librerías comparten la misma lógica de pegar en el código propio el código ajeno, cómo es que no son lo mismo?
+01:53:14	Tomás Cosentino:	porque Bootstrap aplica css?
+01:53:24	Cristian Monsalvo:	Vercel usan mucho en backend no?
+01:53:30	Tomás Cosentino:	y estas librerías aplican js+
+01:53:33	Tomás Cosentino:	creo
+01:53:54	Alicia Otero:	Reacted to "no es que son cosas ..." with 👍🏻
+01:54:44	[Tutor] - Gustavo Herrador:	a ver, como explicar la diferencia entre librería vs framework..  una de las primeras diferencias es el tamaño.. la librería esta hecha para una tarea puntual, por ejemplo React su tarea es hacer paginas one side.. mientras que un framework te ofrece tooooooodo un entorno con herramientas.. bootstrap es un framework porque ofrece diferentes herramientas y un entorno de trabajo para hacer distintas tipos de paginas
+01:54:47	Tomás Cosentino:	es mucho muy importante ir actualizándose con el tiempo como programador, ya que avanza super rápido la tecnologia
+01:55:36	Alicia Otero:	a ver las librerias que vamos a ver hoy, es react??? porque ya me mareo
+01:55:41	Tomás Cosentino:	Reacted to "a ver, como explicar..." with 👍🏿
+01:55:53	[Tutor] Cristian Ovejero:	Replying to "Profe, perdón, no en..."
+
+Romi una librería te permite solucionar un problema concreto, mientras que un framework te brinda un set de herramientas para desarrollar sistemas o aplicaciones. Una librería es un conjunto de funciones, clases y métodos codificados en un lenguaje de programación, que ofrece una interfaz o un contrato definido para una funcionalidad específica. Un framework, en cambio, es un marco de trabajo que trae un conjunto de librerías y “sub-frameworks” que consiguen que el desarrollo de una aplicación sea más rápido. Bootstrap es un framework CSS que proporciona una amplia gama de componentes y estilos predefinidos para crear sitios web y aplicaciones responsivas de manera rápida.
+01:55:55	[Tutor] - Gustavo Herrador:	en esto podemos caer en la diferencia entre React vs. Angular.. por ejemplo! Angular es un framework mientras que React es una librería.. porque? Porque Angular ofrece todo un entorno, con enrutadores, ssr, etc..
+01:55:57	Pablo Rivero:	Replying to "a ver las librerias ..."
+
+Sweet alert, toasty y luxon creo
+01:56:00	Romina Macet:	Replying to "a ver, como explicar..."
+
+qué es una página one side? tipo scrollear en un sólo html?
+01:56:19	[Tutor] - Gustavo Herrador:	Replying to "a ver, como explicar..."
+
+seria que no se va cambiando entre htmls, sino que siempre es el mismo html que se va cambiando lo que se renderiza
+01:56:26	Alicia Otero:	Replying to "a ver las librerias ..."
+
+y react?
+01:56:34	[Tutor] - Gustavo Herrador:	Replying to "a ver las librerias ..."
+
+react es el proximo curso Alicia
+01:56:43	Alicia Otero:	Reacted to "react es el proximo ..." with 👍🏻
+01:56:46	Romina Macet:	Reacted to "Romi una librería te..." with 💜
+01:56:48	Pablo Rivero:	Replying to "a ver las librerias ..."
+
+para react hay un curso entero jajaja
+01:56:55	Alicia Otero:	qué lio!
+01:56:57	Camila Coré:	Reacted to "seria que no se va c..." with 😯
+01:57:00	Tomás Cosentino:	Reacted to "seria que no se va c..." with 😯
+01:57:09	Tobias Castillo:	cuantos meses dura react ?
+01:57:15	Tomás Cosentino:	Reacted to "para react hay un cu..." with 😂
+01:57:17	Cristian Monsalvo:	2 meses
+01:57:19	Cristian Monsalvo:	Como este
+01:57:22	[Tutor] - Gustavo Herrador:	Replying to "a ver, como explicar..."
+
+por ejemplo, en este momento van a crear una pagina pero para las secciones se hacen varios htmls para cada sección.. react no hace eso sino que va creando fragmentos de código que se van renderizando según las necesidades
+01:57:22	Pablo Rivero:	:O
+01:57:30	Camila Coré:	Hermosisima
+01:57:44	Romina Macet:	puedo presentar eso solo para la entrega final y aprobar?
+01:57:46	Gonzalo Gorosito:	podes pegarlo en tu código?
+01:57:50	Camila Coré:	Reacted to "puedo presentar eso ..." with 😂
+01:57:59	Tobias Castillo:	Replying to "2 meses"
+
+ah buenisimo
+01:58:01	Romina Macet:	Replying to "Hermosisima"
+
+hermosísima es una torta de chocolate
+01:58:01	Tomás Cosentino:	Reacted to "puedo presentar eso ..." with 😂
+01:58:06	Alicia Otero:	es como boostrap entonces, yo lo veo muy similar
+01:58:11	Cristian Monsalvo:	Es como las animaciones de desarrollo web, copiar y pegar jaja!
+01:58:20	Tobias Castillo:	profe como no dijo eso antes jajaj
+01:58:27	Alicia Otero:	Replying to "Es como las animacio..."
+
+siii, como AOS!
+01:58:37	Tobias Castillo:	nos hubiéramos ahorrado muchas horas de codeo
+01:58:45	[Tutor] - Gustavo Herrador:	Replying to "puedo presentar eso ..."
+
+si si.. vos tranqui, total si me toca corregirte la nota va a ser la misma hagas lo que hagas jajajaja
+01:58:49	Romina Macet:	es parecido a code pen?
+01:58:52	Francisco Villa:	¿se pueden cambiar los colores?
+01:59:08	Tomás Cosentino:	Replying to "puedo presentar eso ..."
+
+jadjnajwnda, suponiendo que 10, no?
+01:59:12	Romina Macet:	Reacted to "si si.. vos tranqui,..." with 🥴
+01:59:17	Tomás Cosentino:	Reacted to "si si.. vos tranqui,..." with 🥴
+01:59:18	Alicia Otero:	o sea, copiamos y pegamos el código y nada más?
+01:59:19	Camila Coré:	ay me encanta!!
+01:59:26	[Tutor] - Gustavo Herrador:	Reacted to "jadjnajwnda, suponie..." with 🤣
+01:59:31	Romina Macet:	Replying to "puedo presentar eso ..."
+
+no me simpatizas
+01:59:37	[Tutor] - Gustavo Herrador:	Reacted to "no me simpatizas" with 🤣
+01:59:39	Camila Coré:	camisbeth
+01:59:40	Camila Coré:	creo
+01:59:40	Maite Palma:	maitecpa
+01:59:43	Matias Alexander:	matiasAlexander91
+01:59:50	Tomás Cosentino:	TomasCosen
+01:59:52	Camila Coré:	JAJAJAJ mi carona
+01:59:59	Enzo Galvez:	uyyyy
+02:00:01	Matias diaz:	se usa mucho esta librería?
+02:00:12	[Tutor] - Gustavo Herrador:	muchachos, controlense!
+02:00:20	[Tutor] - Gustavo Herrador:	chicas, también se controlan!!
+02:00:29	Enzo Galvez:	nossa
+02:00:41	Tomás Cosentino:	nossa
+02:00:56	[Tutor] - Gustavo Herrador:	Replying to "nossa"
+
+asi voce me mata?
+02:01:04	Romina Macet:	Reacted to "asi voce me mata?" with 😆
+02:01:07	Camila Coré:	Reacted to "asi voce me mata?" with 😆
+02:01:08	Santiago Fernández:	Reacted to "asi voce me mata?" with 😆
+02:01:11	Enzo Galvez:	Replying to "nossa"
+
+ai se eu te pego
+02:01:15	[Tutor] - Gustavo Herrador:	Replying to "nossa"
+
+jajajajajajaja
+02:01:15	Romina Macet:	aia
+02:01:15	Tomás Cosentino:	Replying to "nossa"
+
+ai seu chu peguo
+02:01:17	Pablo Rivero:	@_@
+02:01:19	Camila Coré:	Reacted to "ai se eu te pego" with 😂
+02:01:25	[Tutor] - Gustavo Herrador:	Reacted to "ai se eu te pego" with 🤣
+02:01:25	Camila Coré:	Reacted to "ai seu chu peguo" with 😂
+02:01:26	Tomás Cosentino:	Reacted to "ai seu chu peguo" with 😂
+02:01:27	[Tutor] - Gustavo Herrador:	Reacted to "ai seu chu peguo" with 🤣
+02:01:32	Profesor Coderhouse:	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+02:01:33	Tomás Cosentino:	Reacted to "asi voce me mata?" with 😆
+02:01:34	Tomás Cosentino:	Reacted to "ai se eu te pego" with 😂
+02:01:34	Tomás Cosentino:	Reacted to "ai se eu te pego" with 🤣
+02:01:36	Tomás Cosentino:	Reacted to "ai seu chu peguo" with 🤣
+02:01:37	Alicia Otero:	Replying to "muchachos, controlen..."
+
+perdón yo hice una pregunta, esto se copia el código y lo pegamos en un archivo js?
+02:01:53	Enzo Galvez:	Replying to "nossa"
+
+a nao , achei que voce sabe o portugues ...
+02:02:00	Cristian Monsalvo:	Replying to "muchachos, controlen..."
+
+Si.
+02:02:05	Cristian Monsalvo:	Replying to "muchachos, controlen..."
+
+Al html
+02:02:12	Tomás Cosentino:	Replying to "nossa"
+
+claro...
+02:02:47	Romina Macet:	*entra un virus*
+02:02:54	Camila Coré:	Reacted to "*entra un virus*" with 😂
+02:02:58	Matias diaz:	Reacted to "*entra un virus*" with 😂
+02:03:01	Tomás Cosentino:	Reacted to "*entra un virus*" with 😂
+02:03:05	Tomás Cosentino:	y el botón?
+02:03:19	Tomás Cosentino:	hay que hacerlo con HTML y css?
+02:03:31	Alicia Otero:	perdón yo hice una pregunta, esto se copia el código y lo pegamos en un archivo js?
+02:03:43	Cristian Monsalvo:	Al HTML se pega jajaja!
+02:03:44	Alicia Otero:	o en html?
+02:03:49	Romina Macet:	Reacted to "Al HTML se pega jaja..." with 😆
+02:03:55	Alicia Otero:	pero estoy viendo el JS ahora
+02:04:06	Cristian Monsalvo:	Lo pegas arriba del script de tu js.
+02:04:23	Romina Macet:	ya no puedo leer más código, hablemos de otra cosa, porfis n.n
+02:04:30	Alicia Otero:	Replying to "Lo pegas arriba del ..."
+
+ah, no estoy tan mal
+02:04:41	Alicia Otero:	Replying to "Lo pegas arriba del ..."
+
+a eso me refería
+02:05:02	Tomás Cosentino:	Replying to "ya no puedo leer más..."
+
+dale
+02:05:17	Tomás Cosentino:	Replying to "ya no puedo leer más..."
+
+sabías que la velocidad de la luz es de 300.000 km/s
+02:05:27	Alicia Otero:	Reacted to "sabías que la veloci..." with 🤔
+02:05:28	[Tutor] - Gustavo Herrador:	Reacted to "ya no puedo leer más..." with 🤣
+02:05:29	Tomás Cosentino:	Replying to "ya no puedo leer más..."
+
+y la velocidad del sonido es de 1300 m/s
+02:05:30	Romina Macet:	Replying to "ya no puedo leer más..."
+
+no, eso no, fuchi
+02:05:36	Alicia Otero:	Reacted to "y la velocidad del s..." with 😳
+02:05:40	Pedro Jose Salim Rosales:	Reacted to "no, eso no, fuchi" with 😂
+02:05:56	[Tutor] - Gustavo Herrador:	Replying to "ya no puedo leer más..."
+
+sale café romi? toy que me duermo
+02:06:05	Cristian Monsalvo:	Muy difícil hoy que juga Boquita.
+02:06:12	[Tutor] - Gustavo Herrador:	Reacted to "sale café romi? toy ..." with 🥱
+02:06:15	Tomás Cosentino:	Replying to "ya no puedo leer más..."
+
+por lo tanto si ves la luz de un rayo, y a los 2 segundos escuchas el sonido, entonces el rayo cayó a 2600m de tu casa?
+02:06:15	Alicia Otero:	Reacted to "sale café romi? toy ..." with 😳
+02:06:40	Enzo Galvez:	Replying to "ya no puedo leer más..."
+
+mejor unas cervezas .-.
+02:06:42	Alicia Otero:	Replying to "Muy difícil hoy que ..."
+
+está jugando Messi y va perdiendo el Inter...
+02:06:44	Tomás Cosentino:	Replying to "ya no puedo leer más..."
+
+djandjawn
+02:06:48	Tomás Cosentino:	Reacted to "sale café romi? toy ..." with 🥱
+02:06:49	Tomás Cosentino:	Reacted to "no, eso no, fuchi" with 😂
+02:06:49	Tomás Cosentino:	Reacted to "y la velocidad del s..." with 😳
+02:06:51	[Tutor] - Gustavo Herrador:	Replying to "ya no puedo leer más..."
+
+esta jugando inter miami.. unas birritas entonces Enzo
+02:06:52	Tomás Cosentino:	Reacted to "sabías que la veloci..." with 🤔
+02:07:09	Fernando Ibarra:	Reacted to "Muy difícil hoy que ..." with ❤️
+02:07:12	Romina Macet:	Reacted to "sale café romi? toy ..." with 😆
+02:07:20	Romina Macet:	Reacted to "esta jugando inter m..." with 😆
+02:07:21	Camila Coré:	oooh !! buenisimo
+02:07:30	Mathias Rodriguez:	goood
+02:07:35	Romina Macet:	Replying to "ya no puedo leer más..."
+
+@[Tutor] - Gustavo Herrador yo estoy cenando
+02:07:36	Alicia Otero:	O sea, podemos copiar el código y hacerle cambios?
+02:07:36	Pablo Rivero:	puede hacerse mas chiquito?
+02:07:54	Enzo Galvez:	Replying to "ya no puedo leer más..."
+
+esta perdiendo 🙁
+02:08:09	Matias Alexander:	Replying to "ya no puedo leer más..."
+
+me olvide q jugaban recien pongo el partido, estan en entretiempo
+02:08:31	Matias Alexander:	Replying to "ya no puedo leer más..."
+
+https://www.rojadirectaenvivo.fr/2023/cincinnati-vs-inter-miami-us-open-cup-en-vivo.php
+02:08:33	Cristian Monsalvo:	Se usa igual que Bootstrap. Está buena! :)
+02:08:42	Romina Macet:	Reacted to "Se usa igual que Boo..." with 💜
+02:08:43	Tomás Cosentino:	god
+02:08:46	Tomás Cosentino:	Reacted to "Se usa igual que Boo..." with 💜
+02:08:50	Tomás Cosentino:	ahhhhh  bueno
+02:08:51	Cristian Monsalvo:	Ah jaja!
+02:08:53	Alicia Otero:	Replying to "ya no puedo leer más..."
+
+en vivo en T y C Sports gratis!
+02:08:53	Enzo Galvez:	sep esta good
+02:08:55	Tomás Cosentino:	que chamuyo
+02:09:01	Matias Alexander:	Replying to "ya no puedo leer más..."
+
+no en usa :(
+02:09:05	[Tutor] - Gustavo Herrador:	Replying to "ya no puedo leer más..."
+
+en librefutbol también pueden verlo
+02:09:18	Cristian Monsalvo:	Reacted to "en librefutbol tambi..." with 😂
+02:09:35	Alicia Otero:	Replying to "ya no puedo leer más..."
+
+en vivo en T y C Sports gratis!
+02:10:11	Enzo Galvez:	si quiero usar otra imagen?
+02:10:21	Cristian Monsalvo:	Usan eso para hacer páginas generalmente o lo hacen de cero?
+02:10:24	Alicia Otero:	O sea, podemos copiar el código y hacerle cambios?
+02:10:37	[Tutor] - Gustavo Herrador:	Replying to "O sea, podemos copia..."
+
+tal cual!
+02:10:37	Alicia Otero:	gracias!
+02:10:52	Cristian Monsalvo:	Ah, ok ok.
+02:10:59	Tomás Cosentino:	el profe labura en brubank?
+02:11:01	[Tutor] - Gustavo Herrador:	Replying to "Usan eso para hacer ..."
+
+sweet alert suele usarse.. toastify que la vamos a ver en un ratito también se suele usar.. asique tranqui
+02:11:03	Alicia Otero:	otra duda, con el tema del carrito, con esto podemos armarlo?
+02:11:07	Camila Coré:	Que stack usas profe? React o angular?
+02:11:10	Tomás Cosentino:	Replying to "el profe labura en b..."
+
+si no le pego, estoy ahí nomas
+02:11:11	Cristian Monsalvo:	Reacted to "sweet alert suele us..." with 👍
+02:11:31	Tomás Cosentino:	Replying to "el profe labura en b..."
+
+uff casi
+02:11:52	Camila Coré:	uuhh durisimo ruby
+02:11:53	Tomás Cosentino:	uff
+02:11:55	Alicia Otero:	gracias Dios!!!!, Me volví loca con ese carrito!!!!
+02:11:56	Tomás Cosentino:	a aprender ruby
+02:12:05	Alicia Otero:	Reacted to "gracias Dios!!!!, Me..." with 🙏🏻
+02:12:13	Tomás Cosentino:	Reacted to "gracias Dios!!!!, Me..." with 🙏🏻
+02:12:20	Cristian Monsalvo:	Reacted to "gracias Dios!!!!, Me..." with 😂
+02:12:21	Romina Macet:	dios, muchos nombres... me hace acordar a cuando salían diferentes versiones de los power rangers y ya no sabías qué estabas viendo
+02:12:27	[Tutor] - Gustavo Herrador:	Replying to "uuhh durisimo ruby"
+
+no te creas.. parece difícil pero es mucho mas sencillo de lo que parece
+02:12:39	Tomás Cosentino:	Reacted to "dios, muchos nombres..." with 😂
+02:12:41	Enzo Galvez:	Reacted to "dios, muchos nombres..." with 😂
+02:13:08	Enzo Galvez:	Replying to "dios, muchos nombres..."
+
+mas fácil esta los nombres de los pokemon
+02:13:28	Camila Coré:	Reacted to "mas fácil esta los n..." with 😂
+02:13:30	Tomás Cosentino:	Reacted to "mas fácil esta los n..." with 😂
+02:14:43	Alicia Otero:	Replying to "dios, muchos nombres..."
+
+acá la palabra "result" es reservada, siempre va esa?
+02:15:24	Alicia Otero:	Replying to "dios, muchos nombres..."
+
+al igual que response o item?
+02:16:22	Camila Coré:	Replying to "dios, muchos nombres..."
+
+me parece que result es solo el nombre que le asigno el profe, al ser parametro mantiene la misma logica que los parametros de las funciones "normales"
+02:16:43	Alicia Otero:	Reacted to "me parece que result..." with 🤔
+02:16:53	Gonzalo Gorosito:	que era lo que pasaba si en vez de poner true, ponemos false?
+02:17:05	Alicia Otero:	Replying to "dios, muchos nombres..."
+
+gracias cccami!
+02:17:07	Gonzalo Gorosito:	se rompe?
+02:17:10	Camila Coré:	Reacted to "gracias cccami!" with ❤️
+02:18:10	Profesor Coderhouse:	https://sweetalert2.github.io/
+02:18:21	Alicia Otero:	Entonces esto sería como el AOS de desarrollo web? no?
+02:19:10	[Tutor] - Gustavo Herrador:	irnos a un break? 😄
+02:19:19	Pedro Jose Salim Rosales:	ok
+02:19:21	Tomás Cosentino:	god
+02:19:22	Enzo Galvez:	sale su mate
+02:19:23	Cristian Monsalvo:	Dale.
+02:19:27	Tobias Castillo:	okk
+02:19:30	Camila Coré:	Replying to "sale su mate"
+
+siiii
+02:20:02	[Tutor] - Gustavo Herrador:	chicos, ya se subio el after que di ayer, donde repasamos dudas
+02:20:18	Romina Macet:	Replying to "chicos, ya se subio ..."
+
+cri cri cri
+02:20:34	[Tutor] - Gustavo Herrador:	Replying to "chicos, ya se subio ..."
+
+después andas pidiéndome el link para verlo! jajaja
+02:20:53	Romina Macet:	Replying to "chicos, ya se subio ..."
+
+touché
+02:20:59	[Tutor] - Gustavo Herrador:	Reacted to "cri cri cri" with 🦗
+02:21:01	Matias Alexander:	Podemos pasar el horario a 20:30 9 pm de Inicio?
+02:21:05	Romina Macet:	Replying to "chicos, ya se subio ..."
+
+bueno, me voy a tomar algo :D
+02:21:06	Matias Alexander:	siempre me agarras trabajando
+02:21:13	Matias Alexander:	😡
+02:21:14	[Tutor] - Gustavo Herrador:	Replying to "chicos, ya se subio ..."
+
+🙁 convida
+02:21:15	Romina Macet:	Replying to "siempre me agarras t..."
+
+si, ésto11
+02:21:24	Romina Macet:	Replying to "chicos, ya se subio ..."
+
+no
+02:21:24	Tomás Cosentino:	Reacted to "cri cri cri" with 🦗
+02:21:33	Tomás Cosentino:	Reacted to "no" with 😂
+02:21:48	Santiago Fernández:	Reacted to "no" with 😂
+02:22:06	Santiago Fernández:	Replying to "siempre me agarras t..."
+
+Lo mismo
+02:22:09	[Tutor] - Gustavo Herrador:	Replying to "siempre me agarras t..."
+
+ta complicado.. de hecho no se si voy a poder hacer otro after 🙁 me bajaron el reto.. pero vemos de organizar algo
+02:22:26	Matias Alexander:	Replying to "siempre me agarras t..."
+
+quien te reto? lo hacemo caga
+02:22:47	Alicia Otero:	Replying to "siempre me agarras t..."
+
+@[Tutor] - Gustavo Herrador cómo que te retaron!
+02:22:51	Tomás Cosentino:	Replying to "siempre me agarras t..."
+
+lo vamos a buscar
+02:22:58	Santiago Fernández:	Reacted to "@[Tutor] - Gustavo H..." with 😂
+02:23:01	Tomás Cosentino:	Reacted to "@[Tutor] - Gustavo H..." with 😂
+02:23:10	[Tutor] - Gustavo Herrador:	Replying to "siempre me agarras t..."
+
+jajajaja me hicieron acordar el meme de "poke ta tiste.. vamo a pegarle" jajajaja
+02:23:20	Matias Alexander:	q feo q esta jugando el equipo de mesi
+02:23:21	Matias Alexander:	por dio
+02:23:25	Sabrina Delgado:	Reacted to "jajajaja me hicieron..." with 😂
+02:23:39	Alicia Otero:	Replying to "siempre me agarras t..."
+
+Y si, prque si hubiésemos visto así desde el principio no estríamos tan complicados
+02:24:18	Alicia Otero:	Replying to "siempre me agarras t..."
+
+al menos, hablo por mí
+02:24:51	[Tutor] Cristian Ovejero:	Ausentes en mi tutoria:Laura Londoño.Leandro Ezequiel Mena.Lucas Cecco.Magali Costas.Maira Assis.Matías Fuentes.Sofia AlmironEn caso de encontrarse presentes las personas que mencione en zoom con un nombre y apellido distinto al que tienen en la plataforma porfa comuniquense conmigo.
+02:25:04	Alicia Otero:	Replying to "q feo q esta jugando..."
+
+por una vez que lo televisan!!!!
+02:25:29	[Tutor] - Gustavo Herrador:	Replying to "siempre me agarras t..."
+
+hubiera estado bueno ir viendo mas practico después de las clases.. es entendible pero esta vez no puedo hacer nada :(
+02:26:10	Alicia Otero:	Reacted to "hubiera estado bueno..." with 😔
+02:26:31	Romina Macet:	Replying to "siempre me agarras t..."
+
+no entiendo; te retaron porque no vimos más práctico?
+02:26:33	Tomás Cosentino:	Reacted to "hubiera estado bueno..." with 😔
+02:26:43	Jonathan Mello:	HOLA BUENAS NOCHES
+02:26:58	Matias Alexander:	creo q x la cantidad de afters (es mi teoria) coder es muy especifico por cuando hacerlos y cuantos tener x cursado
+02:27:07	Matias Alexander:	3 afters en menos de 1 semana
+02:27:10	Matias Alexander:	me suena a tiron de orejas
+02:27:25	Romina Macet:	es un montón
+02:27:35	Matias Alexander:	pero si tenes un tutor con ganas de explicar
+02:27:38	Matias Alexander:	q explica bien y se toma el tiempo
+02:27:48	Matias Alexander:	super pacional a la hora de armar afters
+02:27:53	Matias Alexander:	dejalo q haga 60 afters si quiere
+02:28:00	[Tutor] - Gustavo Herrador:	Replying to "siempre me agarras t..."
+
+un punto para grifindor.. si romi, algo asi.. no en si porque no vimos mas practico, sino porque las políticas del coderask dice que los tutores debemos dar afters
+02:28:00	Tomás Cosentino:	coder interviene en nuestra libertad de tener un tutor copado
+02:28:01	Matias Alexander:	no son obligatorios y no forzas a nadie a meterse
+02:28:05	Tomás Cosentino:	coder comunista
+02:28:31	Alicia Otero:	Reacted to "coder comunista" with 🤣
+02:28:52	Tomás Cosentino:	Reacted to "coder comunista" with 🤣
+02:29:12	[Tutor] - Gustavo Herrador:	no no chicos, no tiene que ver con la cantidad de after o cosas asi… si hubiera que hacer mil, se hacen mil.. viene por el lado de que el nuevo manual coderask dice que los tutores no estamos habilitados para dar afters y que solo el profe debería de darlo.. pero bueno! no hay problema, siempre se puede organizar por fuera
+02:29:40	Matias Alexander:	aaaaaaaaaaaa pero q pijaso
+02:29:44	Tomás Cosentino:	tal cual, libertad, libertad, libertad
+02:29:51	Matias Alexander:	total lo hacemos x separado
+02:29:54	Matias Alexander:	q la fumen
+02:30:27	Tomás Cosentino:	lo añadimo' al grupo de whatsapp a gustavo
+02:30:39	Tomás Cosentino:	Reacted to "lo añadimo' al grupo..." with 😂
+02:30:47	Matias Alexander:	uuuh va a leer cuando le damos con un caño
+02:30:48	Gustavo Quiroga Baumann:	tan re botones
+02:30:57	Tomás Cosentino:	Reacted to "uuuh va a leer cuand..." with 😂
+02:30:59	Alicia Otero:	Reacted to "lo añadimo' al grupo..." with 😂
+02:31:03	Tomás Cosentino:	Reacted to "tan re botones" with 👆🏿
+02:31:13	Romina Macet:	Replying to "siempre me agarras t..."
+
+ah, mirá, en desarrollo web los tutores no dieron ningún after.
+02:31:22	Tomás Cosentino:	Reacted to "ah, mirá, en desarro..." with 👆🏿
+02:31:30	Sabrina Delgado:	Reacted to "ah, mirá, en desarro..." with 👆🏿
+02:31:34	Alicia Otero:	Replying to "lo añadimo' al grupo..."
+
+borren todo lo que escribimos de él!!!! jajajajaja!!! No mentira, de Gustavo nadie tiene quejas
+02:31:42	Matias Alexander:	Replying to "siempre me agarras t..."
+
+claro es justamente lo q esta diciendo el, aparentemente no pueden, solo los profes
+02:31:54	Tomás Cosentino:	Reacted to "borren todo lo que e..." with 😂
+02:31:55	Romina Macet:	Reacted to "borren todo lo que e..." with 😆
+02:32:01	[Tutor] - Gustavo Herrador:	Replying to "siempre me agarras t..."
+
+claro, o sea.. perdón si se entendio mal.. los tutores no podemos dar after, políticamente no se puede.. solo los profes
+02:32:10	Alicia Otero:	Replying to "lo añadimo' al grupo..."
+
+pero por las dudas, chequeen!
+02:32:16	Tomás Cosentino:	Reacted to "borren todo lo que e..." with 😆
+02:32:18	Alicia Otero:	Replying to "lo añadimo' al grupo..."
+
+jajajja!
+02:32:22	[Tutor] - Gustavo Herrador:	Replying to "lo añadimo' al grupo..."
+
+jajajajajajaja
+02:32:29	Tomás Cosentino:	Reacted to "claro, o sea.. perdó..." with 🧠
+02:32:35	[Tutor] - Gustavo Herrador:	Replying to "lo añadimo' al grupo..."
+
+ustedes bardeen si me cave, no hay drama! yo me cago de risa
+02:32:42	Tomás Cosentino:	Reacted to "ustedes bardeen si m..." with 👆🏿
+02:32:44	Tomás Cosentino:	Reacted to "ustedes bardeen si m..." with 😂
+02:32:49	Camila Coré:	superr
+02:32:52	Romina Macet:	cinco minutos más
+02:32:59	Tomás Cosentino:	Reacted to "cinco minutos más" with 😂
+02:33:16	Camila Coré:	ese messirve
+02:33:32	Profesor Coderhouse:	https://github.com/apvarun/toastify-js/blob/master/README.md
+02:33:32	Alicia Otero:	Replying to "lo añadimo' al grupo..."
+
+@[Tutor] - Gustavo Herrador no es chiste, en serio😀 Ya me rio para no llorar porque con esta entrega la verdad me puse re triste...
+02:33:54	Romina Macet:	Replying to "lo añadimo' al grupo..."
+
+adhiero
+02:33:54	Profesor Coderhouse:	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+02:33:56	Daniela Chesko:	las publicidades que te mandan cuando pones tu mail en una pagina es con esto o ya implementa también cosas de Gmail?
+02:34:14	Profesor Coderhouse:	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+02:34:31	Alicia Otero:	Reacted to "adhiero" with 👍🏻
+02:35:05	Tomás Cosentino:	"probando tostada"
+02:35:15	Alicia Otero:	Reacted to "uuuh va a leer cuand..." with 😂
+02:35:16	Tomás Cosentino:	rica, de masa madre, con semillas
+02:35:25	Tomás Cosentino:	dea
+02:35:31	Romina Macet:	no me gusta ése
+02:35:31	Romina Macet:	otro
+02:36:14	Daniela Chesko:	los estilos siempre se ponen ahí dentro?
+02:37:02	Sabrina Delgado:	Reacted to "lo añadimo' al grupo..." with 😂
+02:37:05	[Tutor] - Gustavo Herrador:	chicos, otra librería que yo les podría recomendar es "emailjs" les va a servir para enviar emails.. esto podría servirles para cuando se finaliza la compra de un carrito, se envie un mail al destinatario indicado con la lista de productos
+02:37:10	[Tutor] - Gustavo Herrador:	prometo enseñarlo en un futuro after
+02:37:17	Sabrina Delgado:	Reacted to "ustedes bardeen si m..." with 😂
+02:37:21	Tomás Cosentino:	Reacted to "prometo enseñarlo en..." with 👆🏿
+02:37:25	Tomás Cosentino:	Reacted to "prometo enseñarlo en..." with 😄
+02:37:45	Matias Alexander:	vamos carajo
+02:37:47	Matias Alexander:	2-1
+02:37:54	Romina Macet:	Reacted to "2-1" with 😆
+02:37:57	Tomás Cosentino:	2 gustavo, 1 coder
+02:38:05	[Tutor] - Gustavo Herrador:	Reacted to "2 gustavo, 1 coder" with 🤣
+02:38:10	Tomás Cosentino:	Reacted to "2 gustavo, 1 coder" with 🤣
+02:38:30	Romina Macet:	profe, es una especie de alerta que se queda flotando?
+02:38:33	Romina Macet:	la de recién
+02:38:51	Alicia Otero:	Reacted to "chicos, otra librerí..." with 👍🏻
+02:38:59	[Tutor] Cristian Ovejero:	Replying to "chicos, otra librerí..."
+
+Como menciona Gustavo gente con EmailJS pueden definir plantillas de correo electrónico que pueden ser rellenadas con datos dinámicos antes de enviar el correo electrónico, y es útil para enviar correos electrónicos personalizados y automatizados
+02:39:17	Romina Macet:	Reacted to "Como menciona Gustav..." with 💜
+02:39:47	Profesor Coderhouse:	https://moment.github.io/luxon/#/
+02:39:58	Profesor Coderhouse:	<script src="https://cdn.jsdelivr.net/npm/luxon@2.3.0/build/global/luxon.min.js"></script>
+02:40:12	Rodrigo Buscemi:	@[Tutor] - Gustavo Herrador pregunta, para descargar un pdf de mi pagina de presupuestos, se me esta complicando demasiado, hay alguna librería o framework que lo haga?
+02:40:31	Alicia Otero:	Reacted to "Como menciona Gustav..." with 👍🏻
+02:40:45	Alicia Otero:	Reacted to "prometo enseñarlo en..." with 😄
+02:41:03	Alicia Otero:	Reacted to "2 gustavo, 1 coder" with 🤣
+02:41:46	Romina Macet:	o.O
+02:41:47	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+solo descargar o también manipularlos?
+02:42:03	Rodrigo Buscemi:	Replying to "@[Tutor] - Gustavo H..."
+
+Descargarlos
+02:42:05	Daniela Chesko:	están divertidas las librerias
+02:42:10	Alicia Otero:	consulta: con esto ya no sería necesario que usemos el date?
+02:42:24	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+usa la etiqueta download="el archivo a descargar.pdf"
+02:42:48	Camila Coré:	y luxon corrige el problema de date?
+02:42:51	Alicia Otero:	buenísimo!
+02:43:03	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+crea un nodo a.. ese nodo a dale un href con al dirección del pdf y luego le pones la propiedad download
+02:43:07	Camila Coré:	claro!
+02:43:09	Camila Coré:	aaaah joyaaaa
+02:44:10	Camila Coré:	se pone .now() porque es el nombre de la constant? o es una propiedad?
+02:44:13	Tomás Cosentino:	weed day es otra cosa profe
+02:44:23	Camila Coré:	Reacted to "weed day es otra cos..." with 😂
+02:44:25	Alan Guastavino:	Perdon! se me hizo muy tarde, recién llego, perdí el presente?
+02:44:30	Rodrigo Buscemi:	Replying to "@[Tutor] - Gustavo H..."
+
+cual seria la dirección del pdf?
+02:44:32	Tomás Cosentino:	Reacted to "weed day es otra cos..." with 😂
+02:45:06	Alan Guastavino:	Perdon! se me hizo muy tarde, recién llego, perdí el presente?
+02:45:10	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+hace lo que te digo.. crea en vez de un botón, una etiqueta a y le pones como href la dirección del pdf.. el pdf debeira estar dentor de una carpeta en tu proyecto
+02:45:12	Alicia Otero:	Esto podría servir por ejemplo para una página de pedidos de turnos?
+02:45:14	Tomás Cosentino:	Replying to "@[Tutor] - Gustavo H..."
+
+./carpeta/pdfadownload.pdf
+02:45:28	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+luego a esa etiqueta a le pones la propiedad download=el pdf y listo
+02:45:39	Alicia Otero:	Gracias!
+02:45:43	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+luego a esa etiqueta a le das estilo con css
+02:45:49	Rodrigo Buscemi:	Replying to "@[Tutor] - Gustavo H..."
+
+Listo voy a probar
+02:45:54	Rodrigo Buscemi:	Replying to "@[Tutor] - Gustavo H..."
+
+gracias!
+02:46:06	[Tutor] Cristian Ovejero:	Replying to "Perdon! se me hizo m..."
+
+Alan si ya tomamos asistencia, consúltalo con Gustavo que es tu tutor asignado
+02:47:07	Profesor Coderhouse:	https://moment.github.io/luxon/#/formatting?id=presets
+02:47:27	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+https://www.youtube.com/watch?v=MiHCtEKdlvU este video te puede llegar a server Rodri
+02:47:31	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+servir*
+02:48:10	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+igual recomendación, generalo a la etiqueta a mediante JavaScript y la dirección del archivo se la pones dinámicamente.. después podemos verlo al final de la clase
+02:48:47	Romina Macet:	no sé si esta pregunta es medio tonta, pero... se puede combinar código de librerías diferentes?
+02:49:29	Romina Macet:	ah, oki doki
+02:51:19	Camila Coré:	buenisimo!!
+02:51:29	Romina Macet:	Reacted to "buenisimo!!" with 🥴
+02:51:42	Daniela Chesko:	@Cristian Ovejero ya pude arreglar lo que había sucedido con pages de GitHub, era el index que estaba dentro de otra carpeta, tenia que ponerla por fuera, muchas graciasss
+02:52:18	Rodrigo Buscemi:	Replying to "@[Tutor] - Gustavo H..."
+
+Excelente lo voy a ver terminada la clase! Puedo también tener un pdf como armado, y que al descargar solo se coloquen los datos que estoy queriendo que se exporten? Se que se debe poder, pero quizá si ahí es mas complicado ajja
+02:52:36	[Tutor] Cristian Ovejero:	Replying to "@Cristian Ovejero ya..."
+
+Genial Dani 👍
+02:53:40	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+claro, ahi lo que haces es generar el pdf teniendo uno como base.. eso si se hace con librerías, por eso te preguntaba que querias hacer puntualmente.. eso se puede hacer con librerías
+02:53:47	[Tutor] - Gustavo Herrador:	Replying to "@[Tutor] - Gustavo H..."
+
+había una que se llamaba pdfjs si mal no recuerdo
+02:53:48	Tomás Cosentino:	navidad es el 25 xd
+02:53:50	Romina Macet:	luxon no me gusta
+02:53:51	Romina Macet:	jaja
+02:54:06	Tomás Cosentino:	xd
+02:54:26	Camila Coré:	es mucho mas sencillo !!
+02:54:34	Tomás Cosentino:	uff 177366 minutos es una barbaridad
+02:54:44	Camila Coré:	yo hice un countdown con date, y dioossss!!
+02:54:45	Romina Macet:	Replying to "uff 177366 minutos e..."
+
+pasa rapidísimo
+02:55:19	Romina Macet:	profe, cómo se hacen esos contadores que dicen "eres el visitante nro...tal"?
+02:55:23	Tomás Cosentino:	Replying to "uff 177366 minutos e..."
+
+y 10.641.960 segundos?
+02:55:33	[Tutor] Cristian Ovejero:	Replying to "@[Tutor] - Gustavo H..."
+
+pdf-lib es una de las librerias  con la que podes crear, modificar y combinar archivos PDF en el navegador utilizando JavaScript.
+02:55:33	Tomás Cosentino:	Replying to "uff 177366 minutos e..."
+
+falta mucho
+02:55:34	Tomás Cosentino:	Replying to "uff 177366 minutos e..."
+
+dea
+02:55:38	Tomás Cosentino:	Replying to "uff 177366 minutos e..."
+
+jadnaw
+02:55:48	Romina Macet:	ah, oki doki
+02:56:13	[Tutor] - Gustavo Herrador:	Replying to "profe, cómo se hacen..."
+
+en general eso seria con una base de datos, porque necesitas persistencia de datos
+02:56:20	Rodrigo Buscemi:	Replying to "@[Tutor] - Gustavo H..."
+
+excelente gracias
+02:56:35	[Tutor] - Gustavo Herrador:	Replying to "profe, cómo se hacen..."
+
+pero seria básicamente que cada vez que alguien entra, se suma 1 a un contador y listo
+02:56:42	Romina Macet:	Replying to "profe, cómo se hacen..."
+
+para después mostrarlo?
+02:57:02	[Tutor] - Gustavo Herrador:	Replying to "profe, cómo se hacen..."
+
+claro, de retorno se devolvería la cantidad total de ese contador
+02:57:07	Pablo Rivero:	esta clase se valora?
+02:57:08	Martin Martinez:	Hoy se valora?
+02:57:14	Romina Macet:	"promesas" jaja quién le pone los nombres?
+02:57:16	Camila Coré:	no, no se valora
+02:57:20	Martin Martinez:	Reacted to "no, no se valora" with 👍
+02:57:23	[Tutor] - Gustavo Herrador:	no, hoy no se valora chicos.. la clase que viene
+02:57:37	Tomás Cosentino:	Reacted to ""promesas" jaja quié..." with 😂
+02:57:45	enzo galvez:	messiiiiiii 🙁
+03:17:11	Ricardo Andrea:	Reacted to "no, hoy no se valora..." with 👍
+03:30:11	Camila Coré:	Gracias por la clase!! Saludosss :D
+03:30:21	Romina Macet:	quedó en suspenso lo que decía Cris
+03:30:22	Daniela Chesko:	muchas gracias a profe y tutor :D
+03:30:26	Diego Roberto Calderon:	bueno profe buenas noches
+03:30:31	Tomás Cosentino:	dale, gracias, hasta luego

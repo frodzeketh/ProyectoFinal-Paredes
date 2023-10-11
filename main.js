@@ -66,3 +66,28 @@ function mostrarCarrito() {
     carritoElement.appendChild(productoHTML);
   });
 }
+
+
+
+
+
+
+
+const botones = document.querySelectorAll('.add');
+
+
+botones.forEach(boton => {
+  boton.addEventListener('click', () => {
+    
+    const nombre = boton.getAttribute('data-nombre');
+    const precio = boton.getAttribute('data-precio');
+
+    
+    Swal.fire({
+      title: 'Agregado',
+      text: `Has agregado ${nombre} con precio ${precio}`,
+      icon: 'success',
+      confirmButtonText: 'Aceptar'
+    });
+  });
+});
